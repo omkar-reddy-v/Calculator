@@ -101,3 +101,10 @@ body {
       font-size: 18px;
   }
 }
+
+@media screen and (max-width: 450px){
+  .calculator{
+    width: 100%;
+    margin: 150px 0px 0px 80px;
+  }
+}
